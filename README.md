@@ -26,4 +26,4 @@ This project detects Fake vs Real news using Machine Learning (TF-IDF + Logistic
 Python, Scikit-learn, Pandas, Streamlit, Matplotlib
 
 ## Author
-Prajvalanchan
+Prajval padmanabha
